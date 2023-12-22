@@ -21,7 +21,6 @@ for _ in range(1000):
     current_pos = (new_x, new_y)
 
     if abs(y_derivative(current_pos[0])) < 1e-6 and not converged:
-        print('Converged!')
         converged = True
 
     plt.plot(x, y, color = 'gray')
