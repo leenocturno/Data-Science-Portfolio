@@ -25,7 +25,6 @@ for _ in range(1000):
     current_pos = (X_new, Y_new, function(X_new, Y_new))
 
     if (abs(X_derivative) < 1e-6 and abs(Y_derivative) < 1e-6 and not converged):
-        print('Converged!')
         converged = True    
 
     ax.plot_surface(X, Y, Z, cmap='viridis', zorder = 0)
