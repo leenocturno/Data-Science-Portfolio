@@ -26,6 +26,7 @@ df.insert(10, 'Periodic Review Determined By', df['Next Periodic Review Date'].a
 ))
 
 #import json and add comments
+#create your own json file
 with open('comments.json','r') as f:
     comment_data = json.load(f)
 
