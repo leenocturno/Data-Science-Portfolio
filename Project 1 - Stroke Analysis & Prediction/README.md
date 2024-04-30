@@ -1,18 +1,4 @@
 
-Stroke Analysis and Prediction
-Table of Contents
-Dataset Description
-Numerical Variables (Distribution & Correlations)
-Categorical Variables (Distribution & Correlations)
-Target Variable (Stroke)
-Correlations Between Numerical Variables & Target
-Correlations Between Categorical Variables & Target
-Preprocessing
-Model 1 - Logistic Regression
-Model 2 - Decision Tree
-Model 3 - Random Forest
-Model 4 - XGBoost
-Performance Comparison
 1. Dataset Description <a name="dataset-description"></a>
 This section provides an overview of the dataset used for stroke analysis and prediction.
 
