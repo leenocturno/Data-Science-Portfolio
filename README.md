@@ -8,7 +8,7 @@ This porfolio is a compilation of all the data analytics and data science projec
 ## About Me
 
 - My name, Li Feng, is pronounced as "lee-fung". In Chinese tradition, the last name comes before the given name. Therefore, "Li" is my last name, and "Feng" is my given name. In accordance with Chinese naming customs, I do not have a middle name, and "Li Feng" is my full legal name.
-- I began my career as a Spanish-Chinese translator, which gave me the opportunity to live and work across sevral countries in Latin America.
+- I began my career as a Spanish-Chinese translator, which gave me the opportunity to live and work across several countries in Latin America.
 - In 2016, I moved to the United States and worked in multiple roles focused on document management and regulatory compliance.
 - Over the past 2 years, I have been transitioning into the Data Science field.
 - My core ability is identifying, framing, and solving complex real-world problems with data-driven approaches such as exploratory data analysis, statistical modeling, machine learning, and collboration with cross-functional teams while leveraging available resources.
