@@ -7,16 +7,12 @@ This porfolio is a compilation of all the data analytics and data science projec
 
 ## About Me
 
-- My name, Li Feng, is pronounced as "lee-fung". In Chinese tradition, the last name comes before the given name. Therefore, "Li" is my last name, and "Feng" is my given name. In accordance with Chinese naming customs, I do not have a middle name, and "Li Feng" is my complete legal name.
-- Earned my Bachelor's degree in English/Chinese translation. Worked as a Chinese/Spanish translator for my first job while living in several countries in Latin America.
-- Currently living in Seattle and working in the Knowledge Management field for a large pharmaceutical company. I have 6 years of experience in documentation management and data management in the regulatory field.
-- My skills and experience cover almost all aspects of documentation managemnet: composing, editing, controlling, quantitative analysis of document records, and project management.
-- Current position primarily involves:
-  - Management of documents:
-    - ranging from small to large quantities.
-    - both in a controlled and non-controlled environment.
-  - Analysis and management of department KPIs.
-  - Project management responsibilities.
+- My name, Li Feng, is pronounced as "lee-fung". In Chinese tradition, the last name comes before the given name. Therefore, "Li" is my last name, and "Feng" is my given name. In accordance with Chinese naming customs, I do not have a middle name, and "Li Feng" is my full legal name.
+- I began my career as a Spanish-Chinese translator, which gave me the opportunity to live and work across sevral countries in Latin America.
+- In 2016, I moved to the United States and worked in multiple roles focused on document management and regulatory compliance.
+- Over the past 2 years, I have been transitioning into the Data Science field.
+- My core ability is identifying, framing, and solving complex real-world problems with data-driven approaches such as exploratory data analysis, statistical modeling, machine learning, and collboration with cross-functional teams while leveraging available resources.
+
 
 
 ## Projects
@@ -57,9 +53,9 @@ This project analyzes the relationship between Amazon' stock performance and Pri
  
 ## Skills and Competencies
 
-- **Methodologies**: Exploratory Data Analysis, Statistics, A/B Testing, Machine Learning
+- **Methodologies**: Exploratory Data Analysis, Statistical Testing (A/B Testing, T-tests, ANOVA), Machine Learning, Knowledge Management, Retrieval-Augmented Generation, ETL, Feature Engineering,
 - **Languages**: Python (Numpy, Pandas, Matplotlib, Seaborn, Scikit-Learn, Scipy, Keras), SQL
-- **Tools**: MySQL, Tableau, Git, MS Excel
+- **Tools**: Python, SQL, Tableau, Excel, Jupyter Notebook, AWS, Apache Impala, Domino Data Lab, Visual Studio Code, Power Automate
 
 
 
