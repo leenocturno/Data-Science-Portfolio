@@ -79,4 +79,3 @@ This project analyzes the relationship between Amazon' stock performance and Pri
 - [Fundamentals of Visualization with Tableau](https://github.com/leenocturno/Data-Science-Portfolio/blob/main/Education%20and%20Certifications/Cert%20-%20Fundamentals%20of%20Visualization%20with%20Tableau.pdf)
 - [Business Metrics for Data-Driven Companies](https://github.com/leenocturno/Data-Science-Portfolio/blob/main/Education%20and%20Certifications/Cert%20-%20Business%20Metrics%20for%20Data%20Driven%20Companies.pdf)
 - [SQL for Data Science](https://github.com/leenocturno/Data-Science-Portfolio/blob/main/Education%20and%20Certifications/Cert%20-%20SQL%20for%20Data%20Science.pdf)
-- [What is Data Science?](https://github.com/leenocturno/Data-Science-Portfolio/blob/main/Education%20and%20Certifications/Cert%20-%20What%20is%20Data%20Science.pdf)
