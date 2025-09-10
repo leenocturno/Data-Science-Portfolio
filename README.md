@@ -39,6 +39,13 @@ This project investigates and contrasts 3 marketing promotions deployed across 3
 
 This project crawls Wikipedia pages for selected titles and converts the articles into PDFs. Using a GPT-based model, it creates a Knowledge Management chatbot that retrieves information from the PDFs and answer user questions based strictly on their content.
 
+
+#
+
+<img align="left" width="250" height="150" src="https://github.com/leenocturno/Data-Science-Portfolio/blob/main/Images/project-4%20primeday.png"> **[Project 4 - Evaluating the Impact of Amazon Prime Day on Stock Performance Using Statistical and Causal Inference Methods](https://github.com/leenocturno/Data-Science-Portfolio/blob/main/Project%204%20-%20Evaluating%20the%20Impact%20of%20Amazon%20Prime%20Day%20on%20Stock%20Performance%20Using%20Statistical%20and%20Causal%20Inference%20Methods/amazon_prime_day.ipynb)**
+
+This project analyzes the relationship between Amazon' stock performance and Prime Day events. It explores whether stock price movements correlate with Prime Days, using historical market data and event timelines to identify potential patterns or trends.
+
 <br />
 
 ## Mini projects
