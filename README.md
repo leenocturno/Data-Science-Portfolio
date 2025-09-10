@@ -35,7 +35,7 @@ This project investigates and contrasts 3 marketing promotions deployed across 3
 
 #
 
-<img align="left" width="250" height="150" src="https://github.com/leenocturno/Data-Science-Portfolio/blob/main/Images/project-3%20chatbot.png"> **[Project 3 - Knowledge Management Chatbot: Document Search and Location](https://github.com/leenocturno/Data-Science-Portfolio/blob/main/Project%203%20-%20Chatbot%3A%20Document%20Search%20and%20Location/chatbot_wikipedia.ipynb)**
+<img align="left" width="250" height="150" src="https://github.com/leenocturno/Data-Science-Portfolio/blob/main/Images/project-3%20chatbot.png"> **[Project 3 - Knowledge Management Chatbot: Document Search and Location]([https://github.com/leenocturno/Data-Science-Portfolio/blob/main/Project%203%20-%20Chatbot%3A%20Document%20Search%20and%20Location/chatbot_wikipedia.ipynb](https://github.com/leenocturno/Data-Science-Portfolio/blob/main/Project%203%20-%20Chatbot%3A%20Document%20Search%20and%20Location/chatbot_wikipedia.ipynb)**
 
 This project crawls Wikipedia pages for selected titles and converts the articles into PDFs. Using a GPT-based model, it creates a Knowledge Management chatbot that retrieves information from the PDFs and answer user questions based strictly on their content.
 
