@@ -11,7 +11,7 @@ This porfolio is a compilation of all the data analytics and data science projec
 - I began my career as a Spanish-Chinese translator, which gave me the opportunity to live and work across several countries in Latin America.
 - In 2016, I moved to the United States and worked in multiple roles focused on document management and regulatory compliance.
 - Over the past 2 years, I have been transitioning into the Data Science field.
-- My core ability is identifying, framing, and solving complex real-world problems with data-driven approaches such as exploratory data analysis, statistical modeling, machine learning, and collboration with cross-functional teams while leveraging available resources.
+- My core ability is identifying, framing, and solving complex real-world problems with data-driven approaches such as exploratory data analysis, statistical modeling, machine learning, and collaboration with cross-functional teams while leveraging available resources.
 
 
 
